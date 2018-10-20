@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcomes new contributors.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Adds a welcome message for new contributors on open-source.
 
 ## Getting started
 
